@@ -1,1 +1,1 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oplotDev&theme=tokyonight&hide_border=true&border_radius=&background=FFFFFF00)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oplotDev&theme=material-palenight&hide_border=true&border_radius=&background=FFFFFF00&ring=EE7E87&fire=FFAC98&sideNums=4AE0D2&currStreakNum=4AE0D2&sideLabels=AFE1FF&currStreakLabel=AFE1FF)](https://git.io/streak-stats)
